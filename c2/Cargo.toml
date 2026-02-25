@@ -1,0 +1,9 @@
+[package]
+name = "c2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sha2 = "0.10"
+rsa = "0.9"
+rand = "0.8"
